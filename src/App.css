@@ -1,0 +1,15 @@
+.text-two-lines {
+  display: -webkit-box;
+  -webkit-line-clamp: 2; 
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.mgt-5 {
+  margin-top: 150px;
+}
+.ddd{
+  background-color: red;
+  padding: 100px !important;
+  color:black !important;
+}
